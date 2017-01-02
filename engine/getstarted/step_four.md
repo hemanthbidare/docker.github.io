@@ -46,7 +46,7 @@ creating an image which runs on Linux.
     ```
 
 3.  Edit a new text file named `Dockerfile` in the current directory, using a
-    text editor such as `nano` or `vi` on Linux or Mac, or `notepad` on Windows.
+    text editor such as `nano` or `vi` on Linux or Mac, or `notepad` on Windows(Make sure you save the file as "file type as: All Files").
 
     **Linux or Mac**:
 
